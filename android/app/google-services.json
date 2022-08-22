@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436136396580",
+    "project_id": "rush-e22ca",
+    "storage_bucket": "rush-e22ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436136396580:android:ee119a7eb910695cde55b1",
+        "android_client_info": {
+          "package_name": "com.example.rush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436136396580-42msjbqa9jpo2tmqfqk889p77gom0o7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBQYMSrrb3LTjy6zTtXKL8y4ppn8Rr9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436136396580-42msjbqa9jpo2tmqfqk889p77gom0o7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
